@@ -15,4 +15,4 @@ $pip install [distribute|nose|virtualenv]
 #To Run
 $ python bin/app.py 
 
-point your browser to localhost:800
+point your browser to localhost:8080
