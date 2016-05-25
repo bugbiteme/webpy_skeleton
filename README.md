@@ -8,3 +8,5 @@ You will need the following in order to make this work:
  - distribute from http://pypi.python.org/pypi/distribute
  - nose from http://pypi.python.org/pypi/nose/
  - virtualenv from http://pypi.python.org/pypi/virtualenv
+
+$pip install [distribute|nose|virtualenv]
